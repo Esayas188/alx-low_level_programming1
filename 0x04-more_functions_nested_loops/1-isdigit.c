@@ -1,7 +1,7 @@
 #include"main.h"
 #include<stdio.h>
 /**
- * _isdigit  -- function to check 0-9
+ * _isdigit - function to check 0-9
  *
  * @c:checks input of function
  *
