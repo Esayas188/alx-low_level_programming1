@@ -2,7 +2,7 @@
 /**
  * largest_number -returns the largest of 3 numbers
  * @a:first intiger
- * @b: second intiger 
+ * @b:second intiger
  * @c:third intiger
  * Return:largest number
  */
