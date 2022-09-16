@@ -2,16 +2,16 @@
 #include <stdlib.h>
 #include <time.h>
 /**
- *  main - Entry point
+ * main - prints number 0 to 9
  *
- *  Return: Always 0 (success)
+ * Return: Always (success)
  */
 int main(void)
 {
-	char b;
+	char n;
 
-	for (b = 'a'; b <= 'z'; b++)
-		putchar(b);
+	for (n = '0'; n <= '9'; n++)
+		putchar(n);
 
 	putchar('\n');
 	return (0);
