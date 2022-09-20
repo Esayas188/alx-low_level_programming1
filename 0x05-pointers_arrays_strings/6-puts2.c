@@ -1,4 +1,5 @@
 #include "main.h"
+#include <string.h>
 /**
  * puts -> pus2 fuction
  * @str: strparameter
