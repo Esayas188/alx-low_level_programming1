@@ -1,7 +1,7 @@
 #include "main.h"
 #include <string.h>
 /**
- * puts -> pus2 fuction
+ * puts2 -> pus2 fuction
  * @str: strparameter
  */
 void puts2(char *str)
