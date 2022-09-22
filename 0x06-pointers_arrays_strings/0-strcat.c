@@ -1,6 +1,6 @@
 #include"main.h"
 /**
- * _stract -> concatenates the string pointed to by @src to
+ * _strcat -> concatenates the string pointed to by @src to
  * the end of sring pointed to by @dest
  * @dest: string that will be appended
  * @src: string to be concatenated upon
